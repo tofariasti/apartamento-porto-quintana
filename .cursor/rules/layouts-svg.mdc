@@ -1,0 +1,16 @@
+---
+description: Plantas SVG em escala do quarto, sofá e geladeira
+globs: "layouts/**/*.svg"
+alwaysApply: false
+---
+
+# SVG em layouts/
+
+Siga `layouts/AGENTS.md`. Resumo:
+
+- Quarto: 2 px = 1 cm, quarto 600 × 480 a partir de (80, 90), `viewBox="0 -150 760 830"`.
+- Cabeceira à esquerda, janela à direita, roupeiro embaixo, porta no recuo acima à direita.
+- Casal 376 × 276 · queen 400 × 312. Aéreo não empurra a cama.
+- Sofá: 3 px = 1 cm. Geladeira-nicho: 3 px = 1 cm, vista de frente.
+- UTF-8: preserve `×` e acentos. Copie a planta irmã; recalcule px a partir dos cm.
+- Referências: `opcao-1-casal.svg`, `opcao-6-casal.svg`, `sofa-encaixe.svg`, `geladeira-nicho.svg`.

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" role="img">
+  <rect width="760" height="520" fill="#f4f1ea"/>
+  <text x="380" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#3d3429">Largura e altura no v�o de 75 � 200 cm</text>
+  <text x="380" y="46" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6b6156">escala 6 px = 1 cm na largura � 2 px = 1 cm na altura</text>
+
+  <!-- width -->
+  <text x="40" y="78" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429" font-weight="600">Largura</text>
+  <line x1="180" y1="70" x2="630" y2="70" stroke="#d8cfc0"/>
+  <line x1="630" y1="62" x2="630" y2="230" stroke="#8a5a2b" stroke-dasharray="4 3"/>
+  <text x="630" y="58" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#8a5a2b">75 cm</text>
+
+  <rect x="180" y="86" width="360.6" height="22" fill="#c9c4bb" stroke="#5c4033"/>
+  <text x="40" y="102" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Electrolux IB6S</text>
+  <text x="548" y="102" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">60,1 � folga 14,9</text>
+
+  <rect x="180" y="118" width="417" height="22" fill="#c9c4bb" stroke="#5c4033"/>
+  <text x="40" y="134" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Panasonic atual</text>
+  <text x="604" y="134" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">69,5 � 5,5</text>
+
+  <rect x="180" y="150" width="417" height="22" fill="#c9c4bb" stroke="#5c4033"/>
+  <text x="40" y="166" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Panasonic BB53</text>
+  <text x="604" y="166" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">69,5 � 5,5</text>
+
+  <rect x="180" y="182" width="420" height="22" fill="#b7c9bb" stroke="#2c5a3d"/>
+  <text x="40" y="198" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Midea 416 L</text>
+  <text x="608" y="198" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">70,0 � 5,0</text>
+
+  <rect x="180" y="214" width="423" height="22" fill="#c9c4bb" stroke="#5c4033"/>
+  <text x="40" y="230" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Brastemp BRE66</text>
+  <text x="612" y="230" font-family="system-ui, sans-serif" font-size="11" fill="#8a5a2b">70,5 � 4,5</text>
+
+  <!-- height -->
+  <text x="40" y="278" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429" font-weight="600">Altura</text>
+  <line x1="180" y1="270" x2="580" y2="270" stroke="#d8cfc0"/>
+  <line x1="580" y1="262" x2="580" y2="470" stroke="#8a5a2b" stroke-dasharray="4 3"/>
+  <text x="580" y="258" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#8a5a2b">200 cm</text>
+
+  <rect x="180" y="286" width="370.8" height="22" fill="#c9c4bb" stroke="#5c4033"/>
+  <text x="40" y="302" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Panasonic BB53</text>
+  <text x="560" y="302" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">185,4 � 14,6</text>
+
+  <rect x="180" y="318" width="373.2" height="22" fill="#c9c4bb" stroke="#5c4033"/>
+  <text x="40" y="334" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Electrolux IB6S</text>
+  <text x="560" y="334" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">186,6 � 13,4</text>
+
+  <rect x="180" y="350" width="376" height="22" fill="#b7c9bb" stroke="#2c5a3d"/>
+  <text x="40" y="366" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Midea 416 L</text>
+  <text x="564" y="366" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">188,0 � 12,0</text>
+
+  <rect x="180" y="382" width="380" height="22" fill="#c9c4bb" stroke="#5c4033"/>
+  <text x="40" y="398" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Panasonic atual</text>
+  <text x="564" y="398" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">190,0 � 10,0</text>
+
+  <rect x="180" y="414" width="388.6" height="22" fill="#e8d4b8" stroke="#8a5a2b"/>
+  <text x="40" y="430" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Brastemp BRE66</text>
+  <text x="578" y="430" font-family="system-ui, sans-serif" font-size="11" fill="#8a5a2b">194,3 � 5,7</text>
+
+  <text x="380" y="478" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Todos cabem na largura. A Brastemp � a �nica apertada na altura se o nicho for fechado em cima.</text>
+  <text x="380" y="498" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8a7a68">Panasonic BB71 (195 cm) e French Door (&gt; 80 cm) ficam de fora.</text>
+</svg>

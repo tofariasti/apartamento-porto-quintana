@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 680" role="img">
+  <rect width="760" height="680" fill="#f4f1ea"/>
+  <text x="380" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#3d3429">Largura máxima 2,06 m — Dozy 2,03 m</text>
+  <text x="380" y="52" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6b6156">escala 3 px = 1 cm · folga 3 cm no total</text>
+
+  <rect x="71" y="80" width="618" height="14" fill="#3d3429"/>
+  <text x="380" y="74" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#3d3429">parede / vão 2,06 m</text>
+
+  <rect x="75.5" y="94" width="609" height="279" fill="#e8dcc8" stroke="#5c4033" stroke-width="1.5"/>
+  <text x="380" y="220" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" fill="#3d3429" font-weight="600">Dozy 2,03 x 0,93 m</text>
+  <text x="380" y="240" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6b6156">fechado · assento 1,61 m</text>
+
+  <rect x="71" y="94" width="4.5" height="279" fill="#e6f0e8"/>
+  <rect x="684.5" y="94" width="4.5" height="279" fill="#e6f0e8"/>
+  <text x="58" y="240" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a3d" transform="rotate(-90 58 240)">1,5 cm</text>
+  <text x="702" y="240" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a3d" transform="rotate(90 702 240)">1,5 cm</text>
+
+  <rect x="75.5" y="373" width="609" height="171" fill="#d4c4a8" stroke="#5c4033" stroke-dasharray="4 3"/>
+  <text x="380" y="462" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#3d3429">retrátil aberto +57 cm = profundidade 1,50 m</text>
+
+  <text x="380" y="580" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">profundidade fechado 0,93 m · aberto 1,50 m</text>
+  <text x="380" y="602" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6b6156">precisa de 57 cm livres à frente do sofá fechado</text>
+  <text x="380" y="632" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8a7a68">Astor 2,16 m e Flix 2,30 m da Tok&amp;Stok ficam de fora</text>
+</svg>

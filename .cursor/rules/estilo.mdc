@@ -1,0 +1,16 @@
+---
+description: CSS compartilhado — não voltar CSS inline nas páginas
+globs: "estilo.css"
+alwaysApply: false
+---
+
+# estilo.css
+
+Único stylesheet. Tokens em `:root` (`--ink`, `--paper`, `--card`, `--accent`, `--cedar`, `--ok`, `--warn`, `--toc-w`).
+
+- Pesquisa longa: `body.has-toc` + `.toc` fixo (≥960 px). Sem toc: capa.
+- Não recolocar `<style>` nos HTML. Classe nova aqui, markup nas páginas.
+- Fonte: `--font-serif` (Instrument Serif) nos títulos, `--font-sans` (Instrument Sans) no restante.
+- Comparativo dinâmico: `.compare` + `:has(#cmp-N:not(:checked)) .cN`. Sem JavaScript.
+- Foco visível em links (`:focus-visible`). Tabelas genéricas viram scroll em ≤640 px.
+- Chrome sticky: `.site-bar` + `.nav-bar` dentro de `.chrome`.
