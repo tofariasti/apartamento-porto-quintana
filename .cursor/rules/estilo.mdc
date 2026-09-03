@@ -6,11 +6,11 @@ alwaysApply: false
 
 # estilo.css
 
-Único stylesheet. Tokens em `:root` (`--ink`, `--paper`, `--card`, `--accent`, `--cedar`, `--ok`, `--warn`, `--toc-w`).
+Único stylesheet. Tokens em `:root` (`--ink`, `--paper`, `--card`, `--accent` laranja, `--ok`, `--warn`, `--toc-w`).
 
 - Pesquisa longa: `body.has-toc` + `.toc` fixo (≥960 px). Sem toc: capa.
 - Não recolocar `<style>` nos HTML. Classe nova aqui, markup nas páginas.
-- Fonte: `--font-serif` (Instrument Serif) nos títulos, `--font-sans` (Instrument Sans) no restante.
-- Comparativo dinâmico: `.compare` + `:has(#cmp-N:not(:checked)) .cN`. Sem JavaScript.
+- Fonte: Inter (`--font-sans`) em tudo. Paleta marketplace: fundo `#f5f5f7`, cards brancos, acento `#ff6a00`.
+- Comparativo dinâmico: `.compare` + `:has(#cmp-N:not(:checked)) .cN` (vale para `.catalog` e tabela). Sem JavaScript.
 - Foco visível em links (`:focus-visible`). Tabelas genéricas viram scroll em ≤640 px.
-- Chrome sticky: `.site-bar` + `.nav-bar` dentro de `.chrome`.
+- Chrome sticky: `.site-bar` + `.nav-bar` dentro de `.chrome`. Marca com `.brand .mark`.

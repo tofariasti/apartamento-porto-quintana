@@ -7,12 +7,13 @@ alwaysApply: false
 # Páginas HTML
 
 - `lang="pt-BR"`, charset utf-8, viewport. Sem `<style>` interno.
-- Head: preconnect Google Fonts + Instrument Sans / Instrument Serif + `estilo.css`.
+- Head: preconnect Google Fonts + Inter + `estilo.css`.
 - Pesquisa: `body.has-toc`, `.chrome` com `site-bar` e `nav-bar`, depois `header`, `.toc#indice`, `main`, `footer`.
-- Capa (`index.html`): sem toc e sem `nav-bar`; cards em `.cards`.
+- Capa (`index.html`): sem toc e sem `nav-bar`; cards em `.cards` com `.card-photo` + `.card-body`.
+- Marca: `<a class="brand">` com `<span class="mark" aria-hidden="true"></span>` e o texto **Porto Quintana**.
 - Página atual: `class="here"` na `site-bar`. Nova página entra na `site-bar` de todos os HTML e no card da capa.
 - Opção: `<article class="option" id="opcao-N">` (`.best` só no recomendado). `.option-stats` (números-chave) + thumb + `ul.specs` + plantas em `.pair`.
-- Comparativo: `.compare` com pílulas (`#cmp-N` + `label`) e tabela em colunas (`.cN`). Sem JS — `:has()` esconde a coluna desmarcada. Recomendado leva `best-col`.
+- Comparativo: `.compare` com pílulas (`#cmp-N` + `label`), grade `.catalog` (`.cN` no `<li>`) e tabela em colunas (`.cN`). Sem JS — `:has()` esconde a coluna/card desmarcado. Recomendado leva `best-col`.
 - Sincronize âncoras: `nav-bar`, `toc` e `id` do main. Comparativo, `#resumo` (`.decisions`) e artigos usam os mesmos números.
 - Links de anúncio no thumb e no spec "Anúncio". Foto em `fotos/<pesquisa>/`, planta em `layouts/`.
 - Copie o chrome de `sofa.html` ou `quarto-casal.html`, não invente outro nav.

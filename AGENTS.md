@@ -1,6 +1,6 @@
-# Novo apartamento
+# Apartamento Porto Quintana
 
-Site estático em português (pt-BR) para decidir o que cabe no apartamento. Sem build, sem framework, sem JS. Abra os HTML no navegador.
+Site estático em português (pt-BR) para decidir o que cabe no Apartamento Porto Quintana. Sem build, sem framework, sem JS. Abra os HTML no navegador.
 
 Responda em português. Não invente medidas, preços ou estoque: confira no anúncio ou deixe explícito que falta conferir.
 
@@ -30,7 +30,7 @@ Busque em cada uma, anote preço à vista/PIX, medidas, estoque e o link do anú
 | `layouts/` | Plantas SVG em escala |
 | `fotos/` | Fotos locais, uma pasta por pesquisa (`quarto-casal/`, `sofa/`, `geladeira/`) |
 
-Nova pesquisa: copie o chrome de `sofa.html` (não o de `index.html`), ligue `estilo.css` + Instrument Sans / Instrument Serif, acrescente o card em `index.html` e o item na `site-bar` de **todas** as páginas.
+Nova pesquisa: copie o chrome de `sofa.html` (não o de `index.html`), ligue `estilo.css` + Inter, acrescente o card em `index.html` e o item na `site-bar` de **todas** as páginas.
 
 ## Chrome
 
@@ -48,7 +48,7 @@ Dentro: `.option-head` (h3 + `.badge`), `.option-stats` (preço, medidas, folga)
 
 Specs mínimas: anúncio (link), loja/ref, preço (à vista e PIX se houver), medidas L × A × P, folga no vão, o que falha no filtro.
 
-Comparativo: `.compare` com pílulas `#cmp-N` e colunas `.cN` (produto na vertical, característica na horizontal). Sem JS. Tabelas de comparativo, `.decisions` em `#resumo` e os artigos usam as mesmas medidas e preços. A opção 1 costuma ser a recomendada (`best` + `best-col`).
+Comparativo: `.compare` com pílulas `#cmp-N`, grade `.catalog` (`.cN` em cada card) e tabela em colunas (`.cN`). Sem JS. Tabelas de comparativo, `.decisions` em `#resumo` e os artigos usam as mesmas medidas e preços. A opção 1 costuma ser a recomendada (`best` + `best-col`).
 
 Classes de conteúdo: `.facts`, `.note`, `.rec`, `.premissas`, `.gallery`, `.yes` / `.no`.
 
