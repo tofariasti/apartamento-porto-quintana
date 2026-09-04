@@ -8,9 +8,10 @@ alwaysApply: false
 
 Siga `layouts/AGENTS.md`. Resumo:
 
-- Quarto: 2 px = 1 cm, quarto 600 × 480 a partir de (80, 90), `viewBox="0 -150 760 830"`.
-- Cabeceira à esquerda, janela à direita, roupeiro embaixo, porta no recuo acima à direita.
-- Casal 376 × 276 · queen 400 × 312. Aéreo não empurra a cama.
+- Quarto: 2 px = 1 cm, quarto 600 × 480 a partir de (80, 90), `viewBox="0 -80 760 900"`.
+- Cabeceira à esquerda, janela à direita (60 cm + 1,20 m + 60 cm na 2,40 m), roupeiro em cima, porta embaixo (1,40 m + 90 cm + 70 cm na 3,00 m). Mesa 15 cm da parede da porta (`y=270`). Pé direito 2,56 m.
+- A página do quarto usa `quarto.svg` **sem cama**. A posição ao longo da 2,40 m entra com o guarda-roupa. Casal 376 × 276 · queen 400 × 312 nas plantas de opção. Aéreo não empurra a cama.
+- `belem-carioca.svg`: L de fábrica. **36 + 204 = 2,40 m** na cabeceira (36 cm abaixo do 131). Torre 49,5 cm à direita. Módulo **131 × 200 × 45** na 3,00 m. Quebra: giro das portas/gavetas (`#e24b3b`).
 - Sofá: 3 px = 1 cm. Geladeira-nicho: 3 px = 1 cm, vista de frente.
 - UTF-8: preserve `×` e acentos. Copie a planta irmã; recalcule px a partir dos cm.
-- Referências: `opcao-1-casal.svg`, `opcao-6-casal.svg`, `sofa-encaixe.svg`, `geladeira-nicho.svg`.
+- Referências: `quarto.svg`, `opcao-1-casal.svg`, `opcao-6-casal.svg`, `sofa-encaixe.svg`, `geladeira-nicho.svg`.

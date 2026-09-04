@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -80 760 900" role="img" aria-label="Planta C: Altezza ponte 170 cm no topo da cabeceira; colchão casal centrado no móvel.">
+          <rect x="0" y="-80" width="760" height="900" fill="#f4f1ea"/>
+          <text x="380" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#3d3429">C · Altezza ponte 170 cm</text>
+          <text x="380" y="54" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#2c5a6e">4 portas aéreas · 170 + 70 = 2,40 m</text>
+          <rect x="80" y="90" width="600" height="480" fill="#faf8f4" stroke="#3d3429" stroke-width="2"/>
+
+          <rect x="676" y="210" width="14" height="240" fill="#8ec4d4" stroke="#2c5a6e" stroke-width="2"/>
+          <text x="720" y="210" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156" transform="rotate(90 720 210)">60 cm</text>
+          <text x="720" y="360" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a6e" transform="rotate(90 720 360)">janela 1,20 m</text>
+          <text x="720" y="520" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156" transform="rotate(90 720 520)">60 cm</text>
+
+          <rect x="80" y="90" width="600" height="90" fill="#e4d9c4" stroke="#5c4033" stroke-dasharray="3 3"/>
+          <text x="380" y="142" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#6b6156">sem roupeiro — roupeiro à parte</text>
+
+          <rect x="80" y="430" width="106" height="140" fill="#e4d9c4" stroke="#5c4033" stroke-dasharray="3 3"/>
+          <text x="133" y="500" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#6b6156">70 cm</text>
+
+          <rect x="80" y="122" width="376" height="276" fill="#e8dcc8" stroke="#5c4033" stroke-width="1.5"/>
+          <text x="268" y="253" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429" font-weight="600">Colchão casal</text>
+          <text x="268" y="269" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#6b6156">1,38 m · centrado no móvel</text>
+          <text x="70" y="260" text-anchor="end" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">cab.</text>
+          <text x="476" y="260" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">pé 1,12 m</text>
+          <line x1="80" y1="405" x2="456" y2="405" stroke="#8a7a68"/>
+          <text x="268" y="418" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">comp. 1,88 m</text>
+          <line x1="466" y1="122" x2="466" y2="398" stroke="#8a7a68"/>
+          <text x="478" y="260" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">16 cm/lado</text>
+
+          <rect x="80" y="90" width="106" height="340" fill="#8ec4d4" fill-opacity="0.88" stroke="#2c5a6e" stroke-width="1.5"/>
+          <text x="133" y="260" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a6e" font-weight="600" transform="rotate(-90 133 260)">Ponte aérea</text>
+          <text x="133" y="282" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#2c5a6e" transform="rotate(-90 133 282)">170 × 53 · h 240</text>
+          <text x="133" y="300" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#2c5a6e" transform="rotate(-90 133 300)">4 portas aéreas</text>
+
+          <rect x="570" y="270" width="110" height="270" fill="#5f8a84" stroke="#2c5a56" stroke-width="1.5"/>
+          <text x="625" y="397" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#faf8f4" font-weight="600">mesa</text>
+          <text x="625" y="413" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#faf8f4">135 × 55</text>
+          <rect x="480" y="360" width="90" height="90" fill="none" stroke="#2c5a56" stroke-dasharray="4 3"/>
+          <text x="525" y="411" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#2c5a56">cadeira</text>
+          <line x1="625" y1="540" x2="625" y2="570" stroke="#6b6156"/>
+          <text x="612" y="558" text-anchor="end" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">15 cm</text>
+
+          <rect x="360" y="566" width="180" height="8" fill="#faf8f4"/>
+          <line x1="360" y1="570" x2="540" y2="570" stroke="#2c5a3d" stroke-width="4"/>
+          <path d="M540 570 A180 180 0 0 0 360 750" fill="#6b8f71" fill-opacity="0.18" stroke="#2c5a3d" stroke-dasharray="4 3"/>
+          <text x="440" y="555" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a3d">porta 90 cm</text>
+          <line x1="80" y1="578" x2="80" y2="600" stroke="#6b6156"/>
+          <line x1="360" y1="578" x2="360" y2="600" stroke="#6b6156"/>
+          <line x1="80" y1="592" x2="360" y2="592" stroke="#6b6156"/>
+          <text x="220" y="612" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">1,40 m</text>
+          <line x1="540" y1="578" x2="540" y2="600" stroke="#6b6156"/>
+          <line x1="680" y1="570" x2="680" y2="600" stroke="#6b6156"/>
+          <line x1="540" y1="592" x2="680" y2="592" stroke="#6b6156"/>
+          <text x="610" y="612" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">70 cm até a 2,40 m</text>
+          <text x="28" y="340" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429" transform="rotate(-90 28 340)">2,40 m</text>
+          <text x="380" y="780" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8a7a68">Ponte 170 cm no topo da cabeceira (170 + 70 cm). Colchão centrado no móvel. 4 portas no aéreo — não aparecem na planta baixa.</text>
+        </svg>

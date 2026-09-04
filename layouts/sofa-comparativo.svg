@@ -1,28 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" role="img">
-  <rect width="760" height="340" fill="#f4f1ea"/>
-  <text x="380" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#3d3429">Largura dos modelos x teto de 2,06 m</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 390" role="img">
+  <rect width="760" height="390" fill="#f4f1ea"/>
+  <text x="380" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#3d3429">Largura dos modelos × teto de 2,06 m</text>
   <text x="380" y="50" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6b6156">escala 3 px = 1 cm</text>
 
-  <line x1="698" y1="64" x2="698" y2="300" stroke="#8a5a2b" stroke-width="2" stroke-dasharray="5 4"/>
+  <line x1="698" y1="64" x2="698" y2="338" stroke="#8a5a2b" stroke-width="2" stroke-dasharray="5 4"/>
   <text x="698" y="60" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8a5a2b">2,06 m</text>
 
-  <rect x="80" y="78" width="609" height="28" fill="#2c5a3d"/>
-  <text x="90" y="97" font-family="system-ui, sans-serif" font-size="12" fill="#faf8f4">Dozy 2,03 m · folga 3 cm</text>
+  <rect x="80" y="78" width="540" height="28" fill="#1e4a32"/>
+  <text x="90" y="97" font-family="system-ui, sans-serif" font-size="12" fill="#faf8f4">Petit 1,80 m · folga 26 cm · retrátil + baú</text>
 
-  <rect x="80" y="116" width="600" height="28" fill="#a67c52"/>
-  <text x="90" y="135" font-family="system-ui, sans-serif" font-size="12" fill="#faf8f4">Benetton / Bonno / inBox / Perfil 2,00 m · folga 6 cm</text>
+  <rect x="80" y="116" width="570" height="28" fill="#2c5a3d"/>
+  <text x="90" y="135" font-family="system-ui, sans-serif" font-size="12" fill="#faf8f4">Orbe 1,90 m · folga 16 cm · sofá-cama</text>
 
-  <rect x="80" y="154" width="612" height="28" fill="#5c4033"/>
-  <text x="90" y="173" font-family="system-ui, sans-serif" font-size="12" fill="#faf8f4">Overlap 2,04 m · folga 2 cm</text>
+  <rect x="80" y="154" width="600" height="28" fill="#a67c52"/>
+  <text x="90" y="173" font-family="system-ui, sans-serif" font-size="12" fill="#faf8f4">Benetton / Bonno / inBox Slim 2,00 m · folga 6 cm</text>
 
-  <rect x="80" y="192" width="618" height="28" fill="#d4c4a8" stroke="#8a5a2b"/>
-  <text x="90" y="211" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Phormatta 2,06 m · folga 0 · no limite</text>
+  <rect x="80" y="192" width="609" height="28" fill="#5c4033"/>
+  <text x="90" y="211" font-family="system-ui, sans-serif" font-size="12" fill="#faf8f4">Dozy 2,03 m · folga 3 cm</text>
 
-  <rect x="80" y="230" width="648" height="28" fill="#e8d0c4" stroke="#8a5a2b" stroke-dasharray="3 2"/>
-  <text x="90" y="249" font-family="system-ui, sans-serif" font-size="12" fill="#8a5a2b">Astor 2,16 m · 10 cm a mais · não cabe</text>
+  <rect x="80" y="230" width="618" height="28" fill="#d4c4a8" stroke="#8a5a2b"/>
+  <text x="90" y="249" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">Phormatta 2,06 m · folga 0 · no limite</text>
 
-  <text x="80" y="292" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">0</text>
-  <text x="380" y="292" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">1,00 m</text>
-  <text x="680" y="292" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">2,00 m</text>
-  <line x1="80" y1="274" x2="698" y2="274" stroke="#d8cfc0"/>
+  <rect x="80" y="268" width="648" height="28" fill="#e8d0c4" stroke="#8a5a2b" stroke-dasharray="3 2"/>
+  <text x="90" y="287" font-family="system-ui, sans-serif" font-size="12" fill="#8a5a2b">Astor 2,16 m · 10 cm a mais · não cabe</text>
+
+  <text x="80" y="350" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">0</text>
+  <text x="380" y="350" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">1,00 m</text>
+  <text x="680" y="350" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">2,00 m</text>
+  <line x1="80" y1="332" x2="698" y2="332" stroke="#d8cfc0"/>
 </svg>

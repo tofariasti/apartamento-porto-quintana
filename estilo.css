@@ -202,6 +202,10 @@ header p {
   font-size: 0.95rem;
 }
 
+header .hero-plan {
+  margin: 1.35rem 0 0.6rem;
+}
+
 /* —— content —— */
 main { padding: 1rem 1.5rem 3.6rem; }
 
@@ -280,6 +284,21 @@ article { scroll-margin-top: calc(var(--chrome-h) + 0.55rem); }
 .premissas { border-left: 3px solid var(--ink); }
 
 .premissas ul { margin: 0.45rem 0 0; padding-left: 1.15rem; }
+
+.breaks {
+  border-left: 3px solid var(--warn);
+  background: var(--warn-bg);
+  box-shadow: none;
+}
+
+.breaks ol {
+  margin: 0.45rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.breaks li { margin: 0.35rem 0; }
+
+.breaks a { color: var(--warn); }
 
 code {
   font-size: 0.88em;
@@ -779,7 +798,8 @@ a.thumb:hover span {
 
 figure { margin: 0.9rem 0 0; }
 
-figure img {
+figure > img:not(.plan-stage img),
+.hero-plan > svg:not(.plan-stage svg) {
   width: 100%;
   max-width: 720px;
   height: auto;
@@ -787,6 +807,93 @@ figure img {
   background: var(--card);
   border: 1px solid var(--line);
   border-radius: 12px;
+}
+
+.plan-view {
+  margin: 0.35rem 0 1.5rem;
+}
+
+.plan-toolbar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+  margin-bottom: 0.45rem;
+}
+
+.plan-toolbar button {
+  font: inherit;
+  font-size: 0.88rem;
+  font-weight: 600;
+  min-width: 2.15rem;
+  height: 2.15rem;
+  padding: 0 0.55rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--card);
+  color: var(--ink);
+  cursor: pointer;
+  box-shadow: var(--shadow);
+}
+
+.plan-toolbar button:hover {
+  border-color: var(--accent, #5c4033);
+}
+
+.plan-zoom-level {
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: var(--ink-soft, var(--muted));
+  min-width: 3rem;
+  text-align: center;
+}
+
+.plan-hint {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-left: auto;
+}
+
+.plan-viewport {
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--card);
+  touch-action: none;
+  user-select: none;
+}
+
+.plan-view.is-zoomed .plan-viewport {
+  cursor: grab;
+}
+
+.plan-view.is-zoomed .plan-viewport.is-dragging {
+  cursor: grabbing;
+}
+
+.plan-stage {
+  transform-origin: 0 0;
+  will-change: transform;
+}
+
+.plan-stage svg,
+.plan-stage img {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: none;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+}
+
+.hero-plan {
+  margin: 0.35rem 0 1.5rem;
+}
+
+.hero-plan:not(.plan-view) img,
+.hero-plan:not(.plan-view) svg {
+  max-width: none;
 }
 
 figcaption,
@@ -993,6 +1100,10 @@ footer {
   display: block;
 }
 
+.cards a[href="quarto-casal.html"] .card-photo {
+  background: #f4f1ea;
+}
+
 .card-body {
   display: flex;
   flex-direction: column;
@@ -1053,6 +1164,7 @@ body:not(.has-toc) header h1 {
 
 @media (max-width: 720px) {
   .pair { grid-template-columns: 1fr; }
+  .plan-hint { flex-basis: 100%; margin-left: 0; }
 }
 
 @media (max-width: 640px) {

@@ -1,6 +1,6 @@
 # Apartamento Porto Quintana
 
-Site estático em português (pt-BR) para decidir o que cabe no Apartamento Porto Quintana. Sem build, sem framework, sem JS. Abra os HTML no navegador.
+Site estático em português (pt-BR) para decidir o que cabe no Apartamento Porto Quintana. Sem build, sem framework. Plantas com zoom via `planta-zoom.js` (scroll, botões, arrastar). Abra os HTML no navegador.
 
 Responda em português. Não invente medidas, preços ou estoque: confira no anúncio ou deixe explícito que falta conferir.
 
@@ -23,7 +23,7 @@ Busque em cada uma, anote preço à vista/PIX, medidas, estoque e o link do anú
 | Caminho | Função |
 |---|---|
 | `index.html` | Capa com cards para as três pesquisas |
-| `quarto-casal.html` | Guarda-roupa, cama, cômoda, mesa |
+| `quarto-casal.html` | Planta baixa e requisitos (cama casal) |
 | `sofa.html` | Sofá retrátil, teto 2,06 m |
 | `geladeira.html` | Inverse no vão 0,75 × 2,00 m |
 | `estilo.css` | Único CSS. Não duplicar `<style>` nas páginas |
@@ -54,13 +54,14 @@ Classes de conteúdo: `.facts`, `.note`, `.rec`, `.premissas`, `.gallery`, `.yes
 
 ## Quarto 2,40 × 3,00 m
 
+- Pé direito **2,56 m** (chão ao teto).
 - Cabeceira **obrigatória** na parede de 2,40 m **oposta à janela**. Pé aponta para janela e mesa. Não girar a cama para a de 3,00 m.
 - Roupeiro largo só na de 3,00 m **oposta à porta**. Não cabe na parede da porta nem na de 2,40 m.
-- Porta na de 3,00 m, canto da janela, vão 90 cm, recuo 0,85 m **para fora**. O giro da folha não come o retângulo do quarto.
-- Janela na de 2,40 m ao lado da porta. Mesa 1,27 × 0,55 m na frente da janela.
-- Camas: casal 1,38 × 1,88 m · queen 1,56 × 2,00 m (colchão atual). Criado 40 × 40 cm só com casal.
+- Porta na de 3,00 m, vão 90 cm, **1,40 m** da cabeceira e **70 cm** da parede da janela. Giro da folha **para fora** — não come o retângulo do quarto.
+- Janela na de 2,40 m: **1,20 m** de vão, **60 cm** de parede até cada 3,00 m. Mesa 1,35 × 0,55 m na frente da janela, **15 cm** da parede da porta.
+- Cama: **casal — larg. 1,38 m × comp. 1,88 m** (cabeceira na 2,40 m; comprimento aponta para janela/mesa). Posição ao longo da 2,40 m **conforme o guarda-roupa** — não desenhar a cama na planta baixa. Criado 40 × 40 cm só no vão cama–roupeiro.
 - Reto: portas **100% de correr**. L: só com **aéreo** (cama até a parede). Ponte de chão na cabeceira mata a mesa.
-- Novos anúncios só entram se fecharem cabeceira, roupeiro de correr na 3,00 m e mesa.
+- A página do quarto tem só a planta e os requisitos — sem opções de produto.
 
 ## Sofá
 
@@ -68,7 +69,7 @@ Teto de largura **206 cm**. Retrátil = assento que puxa. Folga útil mínima 2�
 
 ## Geladeira
 
-Vão **75 × 200 cm**. Obrigatório: inverse (freezer embaixo) · frost free · inverter · bivolt de verdade · inox. A Panasonic atual (NR-BT55PV2XB) é duplex 220 V — a troca não é porque ela não entra.
+Vão **75 × 200 cm**. Obrigatório: inverse (freezer embaixo) · frost free · inverter · bivolt de verdade · inox · luz no refrigerador e no congelador. A Panasonic atual (NR-BT55PV2XB) é duplex 220 V — a troca não é porque ela não entra.
 
 ## Plantas
 

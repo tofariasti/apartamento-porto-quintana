@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -80 760 900" role="img">
+  <rect x="0" y="-80" width="760" height="900" fill="#f4f1ea"/>
+  <text x="380" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#3d3429">Belém Carioca 7 portas — 131 oposta à porta</text>
+  <text x="380" y="54" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#e24b3b">azul = Ponte + Torre · vermelho = quebra · 36 + 204 = 2,40 m</text>
+  <rect x="80" y="90" width="600" height="480" fill="#faf8f4" stroke="#3d3429" stroke-width="2"/>
+
+  <rect x="676" y="210" width="14" height="240" fill="#8ec4d4" stroke="#2c5a6e" stroke-width="2"/>
+  <text x="720" y="210" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156" transform="rotate(90 720 210)">60 cm</text>
+  <text x="720" y="360" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a6e" transform="rotate(90 720 360)">janela 1,20 m</text>
+  <text x="720" y="520" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156" transform="rotate(90 720 520)">60 cm</text>
+
+  <rect x="342" y="90" width="338" height="90" fill="#e4d9c4" stroke="#5c4033" stroke-dasharray="3 3"/>
+  <text x="511" y="142" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#6b6156">folga 169 cm</text>
+
+  <rect x="80" y="90" width="262" height="90" fill="#a67c52" stroke="#5c4033" stroke-width="1.5"/>
+  <line x1="211" y1="90" x2="211" y2="180" stroke="#5c4033" stroke-dasharray="2 2"/>
+  <text x="211" y="128" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#faf8f4" font-weight="600">131 × 45</text>
+  <text x="211" y="144" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#faf8f4">2 correr</text>
+
+  <rect x="80" y="90" width="70" height="72" fill="#e4d9c4" stroke="#5c4033" stroke-dasharray="3 3"/>
+  <text x="115" y="132" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#6b6156">36 cm</text>
+
+  <rect x="80" y="261" width="376" height="276" fill="#e8dcc8" stroke="#5c4033" stroke-width="1.5"/>
+  <text x="268" y="393" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429" font-weight="600">Colchão casal</text>
+  <text x="268" y="409" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#6b6156">larg. 1,38 × comp. 1,88 m</text>
+  <text x="70" y="399" text-anchor="end" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">cab.</text>
+  <text x="476" y="399" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">pé 1,12 m</text>
+  <line x1="80" y1="545" x2="456" y2="545" stroke="#8a7a68"/>
+  <text x="268" y="558" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">comp. 1,88 m</text>
+  <line x1="466" y1="261" x2="466" y2="537" stroke="#8a7a68"/>
+  <text x="478" y="399" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">larg. 1,38 m</text>
+
+  <rect x="80" y="162" width="70" height="408" fill="#8ec4d4" fill-opacity="0.88" stroke="#2c5a6e" stroke-width="1.5"/>
+  <line x1="80" y1="261" x2="150" y2="261" stroke="#2c5a6e" stroke-dasharray="2 2"/>
+  <text x="115" y="230" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#2c5a6e">49,5</text>
+  <text x="115" y="420" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#2c5a6e">154,5</text>
+  <text x="115" y="366" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a6e" font-weight="600" transform="rotate(-90 115 366)">Ponte + Torre</text>
+  <text x="115" y="388" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#2c5a6e" transform="rotate(-90 115 388)">204 × 35 · h 200</text>
+
+  <rect x="80" y="162" width="70" height="99" fill="#5a9cb8" stroke="#2c5a6e" stroke-width="1.5"/>
+  <line x1="80" y1="212" x2="150" y2="212" stroke="#2c5a6e" stroke-dasharray="2 2"/>
+  <text x="115" y="198" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#faf8f4" font-weight="600">torre</text>
+  <text x="115" y="212" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#faf8f4">49,5 cm</text>
+  <text x="115" y="226" text-anchor="middle" font-family="system-ui, sans-serif" font-size="8" fill="#faf8f4">bater · 2 gav.</text>
+  <text x="115" y="240" text-anchor="middle" font-family="system-ui, sans-serif" font-size="7" fill="#faf8f4">canto 131</text>
+
+  <rect x="150" y="162" width="50" height="50" fill="#e24b3b" fill-opacity="0.28"/>
+  <text x="218" y="188" font-family="system-ui, sans-serif" font-size="9" fill="#e24b3b" font-weight="700">1 · portas 90°</text>
+
+  <path d="M150 212 L150 162 A50 50 0 0 1 200 212 Z" fill="#e24b3b" fill-opacity="0.16" stroke="#e24b3b" stroke-dasharray="4 3"/>
+  <line x1="150" y1="212" x2="200" y2="212" stroke="#e24b3b" stroke-width="1.5"/>
+  <text x="175" y="206" text-anchor="middle" font-family="system-ui, sans-serif" font-size="7" fill="#e24b3b">90° máx.</text>
+
+  <rect x="150" y="212" width="35" height="49" fill="#e24b3b" fill-opacity="0.12" stroke="#e24b3b" stroke-dasharray="2 2"/>
+  <text x="218" y="240" font-family="system-ui, sans-serif" font-size="8" fill="#e24b3b">2 · gavetas (correr)</text>
+
+  <rect x="570" y="270" width="110" height="270" fill="#5f8a84" stroke="#2c5a56" stroke-width="1.5"/>
+  <text x="625" y="397" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#faf8f4" font-weight="600">mesa</text>
+  <text x="625" y="413" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#faf8f4">135 × 55</text>
+  <rect x="480" y="360" width="90" height="90" fill="none" stroke="#2c5a56" stroke-dasharray="4 3"/>
+  <text x="525" y="411" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#2c5a56">cadeira</text>
+  <line x1="625" y1="540" x2="625" y2="570" stroke="#6b6156"/>
+  <text x="612" y="558" text-anchor="end" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">15 cm</text>
+
+  <rect x="360" y="566" width="180" height="8" fill="#faf8f4"/>
+  <line x1="360" y1="570" x2="540" y2="570" stroke="#2c5a3d" stroke-width="4"/>
+  <path d="M540 570 A180 180 0 0 0 360 750" fill="#6b8f71" fill-opacity="0.18" stroke="#2c5a3d" stroke-dasharray="4 3"/>
+  <text x="440" y="555" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a3d">porta 90 cm</text>
+  <line x1="80" y1="578" x2="80" y2="600" stroke="#6b6156"/>
+  <line x1="360" y1="578" x2="360" y2="600" stroke="#6b6156"/>
+  <line x1="80" y1="592" x2="360" y2="592" stroke="#6b6156"/>
+  <text x="220" y="612" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">1,40 m</text>
+  <line x1="540" y1="578" x2="540" y2="600" stroke="#6b6156"/>
+  <line x1="680" y1="570" x2="680" y2="600" stroke="#6b6156"/>
+  <line x1="540" y1="592" x2="680" y2="592" stroke="#6b6156"/>
+  <text x="610" y="612" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">70 cm até a 2,40 m</text>
+  <text x="28" y="340" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429" transform="rotate(-90 28 340)">2,40 m</text>
+  <text x="380" y="780" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8a7a68">Azul = Ponte + Torre (154,5 + 49,5 = 204 cm). Vermelho = portas 90° e gavetas.</text>
+</svg>

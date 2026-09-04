@@ -1,36 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -150 760 830" role="img">
-  <rect x="0" y="-150" width="760" height="830" fill="#f4f1ea"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -80 760 900" role="img">
+  <rect x="0" y="-80" width="760" height="900" fill="#f4f1ea" />
   <text x="380" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#3d3429">3. Cayman 2,50 m — cama casal</text>
   <text x="380" y="54" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6b6156">vão 50 cm livre · criado cabe · cômoda 50 cm ao lado do roupeiro</text>
-  <rect x="80" y="90" width="600" height="480" fill="#faf8f4" stroke="#3d3429" stroke-width="2"/>
-  <rect x="80" y="90" width="376" height="276" fill="#e8dcc8" stroke="#5c4033" stroke-width="1.5"/>
-  <text x="268" y="210" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#3d3429" font-weight="600">Colchão 1,38 × 1,88 m</text>
-  <text x="70" y="226" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">cab.</text>
-  <text x="476" y="226" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">pé 1,12 m</text>
-  <rect x="80" y="370" width="80" height="80" fill="#d4c4a8" stroke="#5c4033"/>
-  <text x="120" y="415" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#3d3429">C</text>
-  <line x1="280" y1="366" x2="280" y2="466" stroke="#8a7a68" stroke-dasharray="4 3"/>
-  <text x="292" y="424" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">vão 50 cm livre</text>
-  <rect x="80" y="466" width="500" height="104" fill="#a67c52" stroke="#5c4033" stroke-width="1.5"/>
-  <line x1="330" y1="466" x2="330" y2="570" stroke="#5c4033" stroke-dasharray="2 2"/>
-  <text x="330" y="524" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#faf8f4" font-weight="600">Cayman 2,50 m · correr</text>
-  <rect x="590" y="466" width="90" height="104" fill="#d8cfc0" stroke="#5c4033"/>
-  <text x="635" y="516" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#3d3429" font-weight="600">cômoda</text>
-  <text x="635" y="532" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#6b6156">50 cm</text>
-  <rect x="500" y="-80" width="180" height="170" fill="#efe8dc" stroke="#3d3429" stroke-width="2"/>
-  <rect x="500" y="84" width="180" height="8" fill="#f4f1ea"/>
-  <line x1="500" y1="-80" x2="680" y2="-80" stroke="#2c5a3d" stroke-width="4"/>
-  <path d="M500 -80 A180 180 0 0 1 680 90" fill="#6b8f71" fill-opacity="0.18" stroke="#2c5a3d" stroke-dasharray="4 3"/>
-  <text x="590" y="-94" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a3d">porta 90 cm</text>
-  <text x="698" y="-8" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a3d" transform="rotate(90 698 -8)">recuo 0,85 m</text>
-  <rect x="676" y="110" width="14" height="254" fill="#8ec4d4" stroke="#2c5a6e" stroke-width="2"/>
-  <text x="720" y="237" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a6e" transform="rotate(90 720 237)">janela</text>
-  <rect x="570" y="110" width="110" height="254" fill="#5f8a84" stroke="#2c5a56" stroke-width="1.5"/>
-  <text x="625" y="228" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#faf8f4" font-weight="600">mesa</text>
-  <text x="625" y="244" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#faf8f4">127 × 55</text>
-  <rect x="480" y="187" width="90" height="90" fill="none" stroke="#2c5a56" stroke-dasharray="4 3"/>
-  <text x="525" y="238" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#2c5a56">cadeira</text>
-  <text x="380" y="598" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429">3,00 m · porta no recuo (0,85 m para fora)</text>
+  <rect x="80" y="90" width="600" height="480" fill="#faf8f4" stroke="#3d3429" stroke-width="2" />
+  <rect x="80" y="294" width="376" height="276" fill="#e8dcc8" stroke="#5c4033" stroke-width="1.5" />
+  <text x="268" y="450" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#3d3429" font-weight="600">Colchão 1,38 × 1,88 m</text>
+  <text x="70" y="434" text-anchor="end" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">cab.</text>
+  <text x="476" y="434" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156">pé 1,12 m</text>
+  <rect x="80" y="210" width="80" height="80" fill="#d4c4a8" stroke="#5c4033" />
+  <text x="120" y="245" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#3d3429">C</text>
+  <line x1="280" y1="294" x2="280" y2="194" stroke="#8a7a68" stroke-dasharray="4 3" />
+  <text x="292" y="236" font-family="system-ui, sans-serif" font-size="11" fill="#2c5a3d">vão 50 cm livre</text>
+  <rect x="80" y="90" width="500" height="104" fill="#a67c52" stroke="#5c4033" stroke-width="1.5" />
+  <line x1="330" y1="194" x2="330" y2="90" stroke="#5c4033" stroke-dasharray="2 2" />
+  <text x="330" y="136" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#faf8f4" font-weight="600">Cayman 2,50 m · correr</text>
+  <rect x="590" y="90" width="90" height="104" fill="#d8cfc0" stroke="#5c4033" />
+  <text x="635" y="144" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#3d3429" font-weight="600">cômoda</text>
+  <text x="635" y="160" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#6b6156">50 cm</text>
+  <rect x="360" y="566" width="180" height="8" fill="#faf8f4" />
+  <line x1="360" y1="570" x2="540" y2="570" stroke="#2c5a3d" stroke-width="4" />
+  <path d="M540 570 A180 180 0 0 0 360 750" fill="#6b8f71" fill-opacity="0.18" stroke="#2c5a3d" stroke-dasharray="4 3" />
+  <text x="440" y="555" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a3d">porta 90 cm</text>
+  <line x1="80" y1="578" x2="80" y2="600" stroke="#6b6156"/>
+  <line x1="360" y1="578" x2="360" y2="600" stroke="#6b6156"/>
+  <line x1="80" y1="592" x2="360" y2="592" stroke="#6b6156"/>
+  <text x="220" y="612" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">1,40 m</text>
+  <line x1="540" y1="578" x2="540" y2="600" stroke="#6b6156"/>
+  <line x1="680" y1="570" x2="680" y2="600" stroke="#6b6156"/>
+  <line x1="540" y1="592" x2="680" y2="592" stroke="#6b6156"/>
+  <text x="610" y="612" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">70 cm até a 2,40 m</text>
+  <rect x="676" y="210" width="14" height="240" fill="#8ec4d4" stroke="#2c5a6e" stroke-width="2" />
+  <text x="720" y="150" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156" transform="rotate(90 720 150)">60 cm</text>
+  <text x="720" y="330" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a6e" transform="rotate(90 720 330)">janela 1,20 m</text>
+  <text x="720" y="510" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156" transform="rotate(90 720 510)">60 cm</text>
+  <rect x="570" y="270" width="110" height="270" fill="#5f8a84" stroke="#2c5a56" stroke-width="1.5" />
+  <text x="625" y="397" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#faf8f4" font-weight="600">mesa</text>
+  <text x="625" y="413" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#faf8f4">135 × 55</text>
+  <rect x="480" y="360" width="90" height="90" fill="none" stroke="#2c5a56" stroke-dasharray="4 3" />
+  <text x="525" y="411" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#2c5a56">cadeira</text>
+  <line x1="625" y1="540" x2="625" y2="570" stroke="#6b6156"/>
+  <text x="612" y="558" text-anchor="end" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">15 cm</text>
   <text x="28" y="340" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429" transform="rotate(-90 28 340)">2,40 m</text>
-  <text x="380" y="640" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8a7a68">Conferir pé-direito: o móvel tem 2,40 m de altura</text>
+  <text x="380" y="780" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#8a7a68">Pé direito 2,56 m: o móvel de 2,40 m deixa 16 cm no teto</text>
 </svg>

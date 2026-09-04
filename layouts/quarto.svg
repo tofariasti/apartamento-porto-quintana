@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -80 760 900" role="img">
+  <rect x="0" y="-80" width="760" height="900" fill="#f4f1ea"/>
+  <text x="380" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#3d3429">Planta baixa — quarto 2,40 × 3,00 m</text>
+  <text x="380" y="54" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#6b6156">cabeceira à esquerda · janela e mesa à direita · porta embaixo · pé direito 2,56 m</text>
+  <rect x="80" y="90" width="600" height="480" fill="#faf8f4" stroke="#3d3429" stroke-width="2"/>
+  <rect x="80" y="90" width="12" height="480" fill="#e8dcc8" stroke="#5c4033" stroke-width="1"/>
+  <text x="70" y="330" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#6b6156" transform="rotate(-90 70 330)">cabeceira</text>
+  <line x1="90" y1="104" x2="670" y2="104" stroke="#a67c52" stroke-dasharray="6 4" stroke-width="2"/>
+  <text x="380" y="126" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#a67c52">roupeiro de correr nesta parede</text>
+  <rect x="676" y="210" width="14" height="240" fill="#8ec4d4" stroke="#2c5a6e" stroke-width="2"/>
+  <text x="720" y="150" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156" transform="rotate(90 720 150)">60 cm</text>
+  <text x="720" y="330" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a6e" transform="rotate(90 720 330)">janela 1,20 m</text>
+  <text x="720" y="510" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156" transform="rotate(90 720 510)">60 cm</text>
+  <rect x="570" y="270" width="110" height="270" fill="#5f8a84" stroke="#2c5a56" stroke-width="1.5"/>
+  <text x="625" y="397" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" fill="#faf8f4" font-weight="600">mesa</text>
+  <text x="625" y="413" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#faf8f4">135 × 55</text>
+  <rect x="480" y="360" width="90" height="90" fill="none" stroke="#2c5a56" stroke-dasharray="4 3"/>
+  <text x="525" y="411" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#2c5a56">cadeira</text>
+  <line x1="625" y1="540" x2="625" y2="570" stroke="#6b6156"/>
+  <text x="612" y="558" text-anchor="end" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">15 cm</text>
+  <rect x="360" y="566" width="180" height="8" fill="#faf8f4"/>
+  <line x1="360" y1="570" x2="540" y2="570" stroke="#2c5a3d" stroke-width="4"/>
+  <path d="M540 570 A180 180 0 0 0 360 750" fill="#6b8f71" fill-opacity="0.18" stroke="#2c5a3d" stroke-dasharray="4 3"/>
+  <text x="440" y="555" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="#2c5a3d">porta 90 cm</text>
+  <line x1="80" y1="578" x2="80" y2="600" stroke="#6b6156"/>
+  <line x1="360" y1="578" x2="360" y2="600" stroke="#6b6156"/>
+  <line x1="80" y1="592" x2="360" y2="592" stroke="#6b6156"/>
+  <text x="220" y="612" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">1,40 m</text>
+  <line x1="540" y1="578" x2="540" y2="600" stroke="#6b6156"/>
+  <line x1="680" y1="570" x2="680" y2="600" stroke="#6b6156"/>
+  <line x1="540" y1="592" x2="680" y2="592" stroke="#6b6156"/>
+  <text x="610" y="612" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" fill="#6b6156">70 cm até a 2,40 m</text>
+  <text x="28" y="340" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#3d3429" transform="rotate(-90 28 340)">2,40 m</text>
+</svg>
